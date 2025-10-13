@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <creation_method/>
+        <name>departure-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 18:41:51</sys_created_on>
+        <sys_id>25504c8e83a03210834c53d6feaad343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>departure-FieldLabel</sys_name>
+        <sys_package display_value="Bus Seat Reservation" source="x_1732703_bus_seat">df6737f183a03210834c53d6feaad39a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_25504c8e83a03210834c53d6feaad343</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 18:41:51</sys_updated_on>
+        <view_config display_value="Bus Unit List Screen View Config">a1504c8e83a03210834c53d6feaad311</view_config>
+        <view_template_slot display_value="text_04">5b4449fc41e35010f877183fc9b8be74</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

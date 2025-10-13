@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1732703_bus_seat_bus_company</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 18:17:55</sys_created_on>
+        <sys_id>f6da373983a03210834c53d6feaad3cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1732703_bus_seat_bus_company</sys_name>
+        <sys_package display_value="Bus Seat Reservation" source="x_1732703_bus_seat">df6737f183a03210834c53d6feaad39a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</sys_scope>
+        <sys_update_name>sys_security_acl_f6da373983a03210834c53d6feaad3cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 18:17:55</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</application>
+        <file_path/>
+        <instance_id>1b1b0fc61b1e8a9032182f8dee4bcbcb</instance_id>
+        <instance_name>dev273208</instance_name>
+        <name>sys_security_acl_f6da373983a03210834c53d6feaad3cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_1732703_bus_seat_bus_company</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-13 18:17:55</sys_created_on><sys_id>f6da373983a03210834c53d6feaad3cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1732703_bus_seat_bus_company</sys_name><sys_package display_value="Bus Seat Reservation" source="x_1732703_bus_seat">df6737f183a03210834c53d6feaad39a</sys_package><sys_policy/><sys_scope display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</sys_scope><sys_update_name>sys_security_acl_f6da373983a03210834c53d6feaad3cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-13 18:17:55</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-333039237</payload_hash>
+        <record_name>x_1732703_bus_seat_bus_company</record_name>
+        <reverted_from/>
+        <source>df6737f183a03210834c53d6feaad39f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 18:17:55</sys_created_on>
+        <sys_id>32da373983a03210834c53d6feaad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199decb16310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 18:17:55</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>b6da3739cda03210b55bf1ca7ec4aace</update_guid>
+        <update_guid_history>b6da3739cda03210b55bf1ca7ec4aace:-333039237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 19:18:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>3c4b9cee14974e7090fc35f404756a31</sys_id>
+        <sys_metadata>f6da373983a03210834c53d6feaad3cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1732703_bus_seat_bus_company</sys_name>
+        <sys_package display_value="Bus Seat Reservation" source="x_1732703_bus_seat">df6737f183a03210834c53d6feaad39a</sys_package>
+        <sys_parent display_value="x_1732703_bus_seat_bus_company">86da373983a03210834c53d6feaad33c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">326db6c345ce45f0825396093ee0c631</sys_scope_delete>
+        <sys_update_name>sys_security_acl_f6da373983a03210834c53d6feaad3cc</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_f6da373983a03210834c53d6feaad3cc">32da373983a03210834c53d6feaad3e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 19:18:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

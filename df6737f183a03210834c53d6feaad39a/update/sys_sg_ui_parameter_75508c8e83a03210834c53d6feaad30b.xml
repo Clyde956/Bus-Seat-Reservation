@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Seat Reservation)">7d508c8e83a03210834c53d6feaad309</button>
+        <button_parent_table>x_1732703_bus_seat_seat_reservation</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>cost</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries>1</max_entries>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Cost</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>cost</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 18:41:53</sys_created_on>
+        <sys_id>75508c8e83a03210834c53d6feaad30b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cost</sys_name>
+        <sys_package display_value="Bus Seat Reservation" source="x_1732703_bus_seat">df6737f183a03210834c53d6feaad39a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_75508c8e83a03210834c53d6feaad30b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 18:41:53</sys_updated_on>
+        <table_name>x_1732703_bus_seat_seat_reservation</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=75508c8e83a03210834c53d6feaad30b"/>
+</record_update>
