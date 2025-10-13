@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Seat Reservation)">7d508c8e83a03210834c53d6feaad309</button>
+        <item_parameter display_value="Seat Reservation cost">f5508c8e83a03210834c53d6feaad307</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 18:41:53</sys_created_on>
+        <sys_id>fd508c8e83a03210834c53d6feaad30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f5508c8e83a03210834c53d6feaad307</sys_name>
+        <sys_package display_value="Bus Seat Reservation" source="x_1732703_bus_seat">df6737f183a03210834c53d6feaad39a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_fd508c8e83a03210834c53d6feaad30d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 18:41:53</sys_updated_on>
+        <ui_parameter display_value="Cost">75508c8e83a03210834c53d6feaad30b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

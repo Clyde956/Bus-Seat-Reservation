@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="42da373983a03210834c53d6feaad33a" label="Bus Company" max_length="40" name="x_1732703_bus_seat_bus_company" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Contact Person" max_length="50" name="contact_person" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Number" max_length="40" name="contact_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="50" name="name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Seat Reservation)">7d508c8e83a03210834c53d6feaad309</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Seat Reservation)</name>
+        <order/>
+        <parent>35504c8e83a03210834c53d6feaad3ea</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 18:41:53</sys_created_on>
+        <sys_id>f1508c8e83a03210834c53d6feaad310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Seat Reservation)</sys_name>
+        <sys_package display_value="Bus Seat Reservation" source="x_1732703_bus_seat">df6737f183a03210834c53d6feaad39a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bus Seat Reservation">df6737f183a03210834c53d6feaad39a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f1508c8e83a03210834c53d6feaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 18:41:53</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f1508c8e83a03210834c53d6feaad310"/>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="919bb37983a03210834c53d6feaad354" label="Bus Stop" max_length="40" name="x_1732703_bus_seat_bus_stop" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="terminal" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Terminal" value="terminal"/>
+                <element inactive_on_update="false" label="Not Terminal" value="not_terminal"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>
